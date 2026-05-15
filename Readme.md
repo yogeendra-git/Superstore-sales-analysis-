@@ -88,7 +88,9 @@ superstore-sales-analysis/
 ├── README.md
 └── requirements.txt
 
-#Key Business Analysis Performed
+---
+
+# Key Business Analysis Performed
 Region-wise sales and profit analysis
 Category and sub-category performance analysis
 Monthly sales trend analysis
