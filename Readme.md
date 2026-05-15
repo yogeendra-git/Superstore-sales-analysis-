@@ -90,7 +90,7 @@ superstore-sales-analysis/
 
 ---
 
-## Key Business Analysis Performed
+**Key Business Analysis Performed**
 Region-wise sales and profit analysis
 Category and sub-category performance analysis
 Monthly sales trend analysis
@@ -119,7 +119,10 @@ Trend Analysis
 Business Insights
 
 Dashboard Screenshots:
+[https://github.com/yogeendra-git/Superstore-sales-analysis-/blob/main/images/dashboard_overview/superstore-1%20img.png]
 
+[https://github.com/yogeendra-git/Superstore-sales-analysis-/blob/main/images/dashboard_overview/superstore-2%20img.png]
+  
 #SQL Analysis
 
 Key Insights
@@ -149,7 +152,7 @@ pip install -r requirements.txt
 Run Python Scripts
 python cleaning.py
 
-#Author
+**Author**
 
 Yogeendra G
 
@@ -160,5 +163,6 @@ SQL
 Power BI
 Python
 Business Intelligence
-Connect With Me
+
+#Connect With Me
 GitHub: https://github.com/yogeendra-git
